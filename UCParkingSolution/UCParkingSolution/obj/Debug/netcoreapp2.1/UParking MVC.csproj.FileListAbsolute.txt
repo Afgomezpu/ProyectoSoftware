@@ -1,0 +1,32 @@
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\bin\Debug\netcoreapp2.1\UParking MVC.deps.json
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\bin\Debug\netcoreapp2.1\UParking MVC.runtimeconfig.json
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\bin\Debug\netcoreapp2.1\UParking MVC.runtimeconfig.dev.json
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\bin\Debug\netcoreapp2.1\UParking MVC.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\bin\Debug\netcoreapp2.1\UParking MVC.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\bin\Debug\netcoreapp2.1\UParking MVC.Views.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\bin\Debug\netcoreapp2.1\UParking MVC.Views.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.csprojAssemblyReference.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.csproj.CoreCompileInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.RazorAssemblyInfo.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.RazorAssemblyInfo.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.AssemblyInfoInputs.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.AssemblyInfo.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.TagHelpers.input.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.TagHelpers.output.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.RazorCoreGenerate.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.RazorTargetAssemblyInfo.cache
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.RazorTargetAssemblyInfo.cs
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.Views.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.dll
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.pdb
+D:\Users\sebastian\Documents\2019\software\proyectos\ProyectoSoftware\UCParkingSolution\UCParkingSolution\obj\Debug\netcoreapp2.1\UParking MVC.csproj.CopyComplete

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\57318\\Desktop\\Andres Gomez\\Materias\\Software\\ProyectoFinal\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj": {}
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\ProyectoSoftware\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\57318\\Desktop\\Andres Gomez\\Materias\\Software\\ProyectoFinal\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj": {
+    "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\ProyectoSoftware\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\57318\\Desktop\\Andres Gomez\\Materias\\Software\\ProyectoFinal\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj",
+        "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\ProyectoSoftware\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj",
         "projectName": "UParking MVC",
-        "projectPath": "C:\\Users\\57318\\Desktop\\Andres Gomez\\Materias\\Software\\ProyectoFinal\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj",
-        "packagesPath": "C:\\Users\\57318\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\57318\\Desktop\\Andres Gomez\\Materias\\Software\\ProyectoFinal\\UCParkingSolution\\UCParkingSolution\\obj\\",
+        "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\ProyectoSoftware\\UCParkingSolution\\UCParkingSolution\\UParking MVC.csproj",
+        "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\proyectos\\ProyectoSoftware\\UCParkingSolution\\UCParkingSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\57318\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
